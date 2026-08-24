@@ -1,0 +1,21 @@
+Product_Category,Product,List_Price_INR,Unit_Cost_INR,Launch_Date,Base_Return_Rate
+Electronics,Smartwatch,"4,999","2,450",2024-01-01,7.5%
+Electronics,Wireless Earbuds,"1,999",950,2024-01-01,9.0%
+Electronics,Bluetooth Speaker,"2,799","1,380",2024-01-01,7.0%
+Electronics,Power Bank,"1,499",720,2024-01-01,5.5%
+Electronics,Smart Home Hub,"6,499","3,300",2025-03-01,6.5%
+Home Appliances,Air Fryer,"6,999","3,900",2024-01-01,5.5%
+Home Appliances,Vacuum Cleaner,"8,999","5,150",2024-01-01,5.0%
+Home Appliances,Mixer Grinder,"3,999","2,180",2024-01-01,4.0%
+Home Appliances,Water Purifier,"11,999","7,200",2024-01-01,3.5%
+Home Appliances,Portable Blender,"2,499","1,180",2025-05-01,5.0%
+Furniture,Office Chair,"6,999","4,050",2024-01-01,4.5%
+Furniture,Study Desk,"7,999","4,550",2024-01-01,3.5%
+Furniture,Bookshelf,"4,999","2,750",2024-01-01,3.0%
+Furniture,Storage Cabinet,"9,999","5,900",2024-01-01,3.0%
+Furniture,Standing Desk,"14,999","8,850",2025-08-01,3.5%
+Home & Lifestyle,LED Lamp,"1,499",650,2024-01-01,4.0%
+Home & Lifestyle,Cookware Set,"3,499","1,800",2024-01-01,3.0%
+Home & Lifestyle,Travel Backpack,"2,299","1,050",2024-01-01,6.0%
+Home & Lifestyle,Kitchen Organizer,"1,199",500,2024-01-01,2.5%
+Home & Lifestyle,Aromatherapy Diffuser,"1,899",820,2025-02-01,4.5%
