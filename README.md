@@ -129,3 +129,5 @@ BrightCart-Sales-Analytics
 ├── 06_Insights
 ├── 07_Images
 └── README.md
+## Author
+Shivani Mittal
