@@ -114,7 +114,7 @@ Analyzes:
 - **November 2025** showed the strongest sales-target performance, while **December 2024** showed the weakest performance against target.
 - The **South region** generated the highest sales, while the **East region** recorded the lowest sales.
 
-## Business Insights (NovaCart Supply Chain_WordFile.docx)
+
 
 ### Author
 Shivani Mittal
